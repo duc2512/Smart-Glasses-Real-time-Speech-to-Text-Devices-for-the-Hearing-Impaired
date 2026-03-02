@@ -20,17 +20,14 @@
 
 ## 📸 Demo
 
-<!-- 
-🔽 THÊM HÌNH ẢNH / VIDEO DEMO TẠI ĐÂY 🔽
-Ví dụ:
-![Demo](docs/demo.gif)
-![Smart Glasses](docs/glasses.jpg)
-![Web Portal](docs/portal.png)
--->
+<div align="center">
 
-> ⚠️ *Vui lòng thêm ảnh/video demo mắt kính và web portal tại đây.*
->
-> ⚠️ *Please add smart glasses & web portal demo images/videos here.*
+| Hardware Overview | OLED Display | Close-up Display | Wearing Demo |
+|:-:|:-:|:-:|:-:|
+| ![Smart Glasses Overview](docs/smart_glasses_overview.jpg) | ![OLED Display](docs/oled_display_inverted.jpg) | ![OLED Close-up](docs/oled_display_closeup.jpg) | ![Wearing Demo](docs/wearing_demo.jpg) |
+| *Mắt kính thông minh với ESP32, I2S Microphone và OLED* | *Màn hình OLED hiển thị transcript "Xin chào các bạn!"* | *Cận cảnh OLED 0.96" SSD1306 và I2S Microphone* | *Demo đeo thực tế — gọn nhẹ, tích hợp đầy đủ* |
+
+</div>
 
 ---
 
